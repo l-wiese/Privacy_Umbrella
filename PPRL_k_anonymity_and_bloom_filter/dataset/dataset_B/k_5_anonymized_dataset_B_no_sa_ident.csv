@@ -1,0 +1,1501 @@
+index,sex,age,race,marital-status,education,native-country,workclass,occupation
+689_b,*,17,*,Never-married,High School,United-States,Private,*
+799_b,*,17,*,Never-married,High School,United-States,Private,*
+124_b,*,17,*,Never-married,High School,United-States,Private,*
+254_b,*,17,*,Never-married,High School,United-States,Private,*
+1270_b,*,17,*,Never-married,High School,United-States,Private,*
+890_b,*,17,*,Never-married,High School,United-States,*,*
+129_b,*,17,*,Never-married,High School,United-States,*,*
+58_b,*,17,*,Never-married,High School,United-States,*,*
+585_b,*,17,*,Never-married,High School,United-States,*,*
+98_b,*,17,*,Never-married,High School,United-States,*,*
+1372_b,*,17,*,Never-married,High School,United-States,*,*
+863_b,*,16-20,*,spouse not present,*,United-States,*,*
+1093_b,*,16-20,*,spouse not present,*,United-States,*,*
+1304_b,*,16-20,*,spouse not present,*,United-States,*,*
+1135_b,*,16-20,*,spouse not present,*,United-States,*,*
+1404_b,*,16-20,*,spouse not present,*,United-States,*,*
+1172_b,*,16-20,*,spouse not present,*,United-States,*,*
+1292_b,*,18,White,Never-married,*,United-States,*,*
+902_b,*,18,White,Never-married,*,United-States,*,*
+223_b,*,18,White,Never-married,*,United-States,*,*
+490_b,*,18,White,Never-married,*,United-States,*,*
+1179_b,*,18,White,Never-married,*,United-States,*,*
+264_b,*,18,White,Never-married,*,United-States,*,*
+675_b,*,18,White,Never-married,High School,United-States,Private,*
+136_b,*,18,White,Never-married,High School,United-States,Private,*
+1274_b,*,18,White,Never-married,High School,United-States,Private,*
+985_b,*,18,White,Never-married,High School,United-States,Private,*
+408_b,*,18,White,Never-married,High School,United-States,Private,*
+994_b,*,16-20,*,Never-married,High School,United-States,*,*
+1088_b,*,16-20,*,Never-married,High School,United-States,*,*
+810_b,*,16-20,*,Never-married,High School,United-States,*,*
+615_b,*,16-20,*,Never-married,High School,United-States,*,*
+591_b,*,16-20,*,Never-married,High School,United-States,*,*
+1027_b,*,16-20,*,Never-married,High School,United-States,*,*
+892_b,*,19,*,Never-married,*,North America,Private,*
+1096_b,*,19,*,Never-married,*,North America,Private,*
+1197_b,*,19,*,Never-married,*,North America,Private,*
+146_b,*,19,*,Never-married,*,North America,Private,*
+1064_b,*,19,*,Never-married,*,North America,Private,*
+1397_b,*,19,*,Never-married,*,North America,Private,*
+12_b,*,19,*,*,*,United-States,*,*
+1351_b,*,19,*,*,*,United-States,*,*
+1057_b,*,19,*,*,*,United-States,*,*
+381_b,*,19,*,*,*,United-States,*,*
+1235_b,*,19,*,*,*,United-States,*,*
+1203_b,*,19,*,*,*,United-States,*,*
+166_b,*,19,White,Never-married,*,United-States,Private,*
+597_b,*,19,White,Never-married,*,United-States,Private,*
+255_b,*,19,White,Never-married,*,United-States,Private,*
+793_b,*,19,White,Never-married,*,United-States,Private,*
+1123_b,*,19,White,Never-married,*,United-States,Private,*
+905_b,*,19,White,Never-married,*,United-States,Private,*
+949_b,*,19,White,Never-married,*,United-States,Private,*
+376_b,*,19,White,Never-married,*,United-States,Private,*
+852_b,*,19,White,Never-married,*,United-States,Private,*
+79_b,*,19,White,Never-married,*,United-States,Private,*
+317_b,*,19,White,Never-married,*,United-States,Private,*
+475_b,*,16-20,*,Never-married,*,*,*,*
+1187_b,*,16-20,*,Never-married,*,*,*,*
+1319_b,*,16-20,*,Never-married,*,*,*,*
+216_b,*,16-20,*,Never-married,*,*,*,*
+1132_b,*,16-20,*,Never-married,*,*,*,*
+778_b,*,16-20,*,Never-married,*,*,*,*
+247_b,*,20,White,Never-married,*,North America,Non-Government,Other
+769_b,*,20,White,Never-married,*,North America,Non-Government,Other
+1257_b,*,20,White,Never-married,*,North America,Non-Government,Other
+598_b,*,20,White,Never-married,*,North America,Non-Government,Other
+1043_b,*,20,White,Never-married,*,North America,Non-Government,Other
+1026_b,*,20,White,Never-married,*,North America,Non-Government,Other
+908_b,*,20,*,Never-married,*,*,Private,*
+1223_b,*,20,*,Never-married,*,*,Private,*
+1447_b,*,20,*,Never-married,*,*,Private,*
+943_b,*,20,*,Never-married,*,*,Private,*
+826_b,*,20,*,Never-married,*,*,Private,*
+237_b,*,20,*,Never-married,*,*,Private,*
+104_b,*,20,*,spouse not present,*,United-States,Private,*
+885_b,*,20,*,spouse not present,*,United-States,Private,*
+593_b,*,20,*,spouse not present,*,United-States,Private,*
+306_b,*,20,*,spouse not present,*,United-States,Private,*
+87_b,*,20,*,spouse not present,*,United-States,Private,*
+1243_b,*,20,*,spouse not present,*,United-States,Private,*
+901_b,*,20,*,Never-married,*,United-States,Private,*
+1145_b,*,20,*,Never-married,*,United-States,Private,*
+957_b,*,20,*,Never-married,*,United-States,Private,*
+102_b,*,20,*,Never-married,*,United-States,Private,*
+1188_b,*,20,*,Never-married,*,United-States,Private,*
+82_b,*,20,*,Never-married,*,United-States,Private,*
+651_b,*,*,*,Never-married,*,United-States,*,*
+646_b,*,*,*,Never-married,*,United-States,*,*
+512_b,*,*,*,Never-married,*,United-States,*,*
+1473_b,*,*,*,Never-married,*,United-States,*,*
+1204_b,*,*,*,Never-married,*,United-States,*,*
+999_b,*,*,*,Never-married,*,United-States,*,*
+1357_b,Female,21,*,Never-married,*,North America,*,*
+1117_b,Female,21,*,Never-married,*,North America,*,*
+399_b,Female,21,*,Never-married,*,North America,*,*
+135_b,Female,21,*,Never-married,*,North America,*,*
+1180_b,Female,21,*,Never-married,*,North America,*,*
+499_b,*,21,*,*,*,United-States,Private,*
+814_b,*,21,*,*,*,United-States,Private,*
+859_b,*,21,*,*,*,United-States,Private,*
+1317_b,*,21,*,*,*,United-States,Private,*
+1025_b,*,21,*,*,*,United-States,Private,*
+688_b,*,21,*,*,*,United-States,Private,*
+801_b,*,21,White,*,*,North America,*,*
+402_b,*,21,White,*,*,North America,*,*
+1495_b,*,21,White,*,*,North America,*,*
+383_b,*,21,White,*,*,North America,*,*
+297_b,*,21,White,*,*,North America,*,*
+424_b,*,21,White,*,*,North America,*,*
+742_b,*,21-25,White,Never-married,*,United-States,*,*
+841_b,*,21-25,White,Never-married,*,United-States,*,*
+1050_b,*,21-25,White,Never-married,*,United-States,*,*
+1438_b,*,21-25,White,Never-married,*,United-States,*,*
+715_b,*,21-25,White,Never-married,*,United-States,*,*
+284_b,*,21-25,White,Never-married,*,United-States,*,*
+774_b,*,22,*,Never-married,*,United-States,*,*
+876_b,*,22,*,Never-married,*,United-States,*,*
+600_b,*,22,*,Never-married,*,United-States,*,*
+1230_b,*,22,*,Never-married,*,United-States,*,*
+589_b,*,22,*,Never-married,*,United-States,*,*
+1240_b,*,22,*,Never-married,*,United-States,*,*
+854_b,*,22,*,Never-married,*,North America,Non-Government,Other
+1290_b,*,22,*,Never-married,*,North America,Non-Government,Other
+379_b,*,22,*,Never-married,*,North America,Non-Government,Other
+370_b,*,22,*,Never-married,*,North America,Non-Government,Other
+690_b,*,22,*,Never-married,*,North America,Non-Government,Other
+1482_b,*,22,*,Never-married,*,North America,Non-Government,Other
+158_b,*,22,White,Never-married,*,*,*,*
+170_b,*,22,White,Never-married,*,*,*,*
+899_b,*,22,White,Never-married,*,*,*,*
+54_b,*,22,White,Never-married,*,*,*,*
+1344_b,*,22,White,Never-married,*,*,*,*
+437_b,*,22,White,Never-married,*,*,*,*
+38_b,*,22,*,spouse not present,*,*,Non-Government,Other
+1291_b,*,22,*,spouse not present,*,*,Non-Government,Other
+815_b,*,22,*,spouse not present,*,*,Non-Government,Other
+1363_b,*,22,*,spouse not present,*,*,Non-Government,Other
+368_b,*,22,*,spouse not present,*,*,Non-Government,Other
+434_b,*,22,*,spouse not present,*,*,Non-Government,Other
+561_b,*,21-25,White,*,High School,North America,Private,*
+787_b,*,21-25,White,*,High School,North America,Private,*
+117_b,*,21-25,White,*,High School,North America,Private,*
+855_b,*,21-25,White,*,High School,North America,Private,*
+1185_b,*,21-25,White,*,High School,North America,Private,*
+580_b,*,23,*,*,*,United-States,Non-Government,*
+849_b,*,23,*,*,*,United-States,Non-Government,*
+1080_b,*,23,*,*,*,United-States,Non-Government,*
+1296_b,*,23,*,*,*,United-States,Non-Government,*
+1418_b,*,23,*,*,*,United-States,Non-Government,*
+554_b,*,23,*,*,*,United-States,Non-Government,*
+1384_b,*,23,White,*,*,United-States,Private,*
+332_b,*,23,White,*,*,United-States,Private,*
+1394_b,*,23,White,*,*,United-States,Private,*
+388_b,*,23,White,*,*,United-States,Private,*
+128_b,*,23,White,*,*,United-States,Private,*
+416_b,*,23,White,*,*,United-States,Private,*
+393_b,*,23,*,Never-married,*,North America,Non-Government,*
+448_b,*,23,*,Never-married,*,North America,Non-Government,*
+403_b,*,23,*,Never-married,*,North America,Non-Government,*
+1100_b,*,23,*,Never-married,*,North America,Non-Government,*
+858_b,*,23,*,Never-married,*,North America,Non-Government,*
+1442_b,*,23,*,Never-married,*,North America,Non-Government,*
+744_b,*,23,*,Never-married,*,United-States,Private,*
+948_b,*,23,*,Never-married,*,United-States,Private,*
+792_b,*,23,*,Never-married,*,United-States,Private,*
+805_b,*,23,*,Never-married,*,United-States,Private,*
+738_b,*,23,*,Never-married,*,United-States,Private,*
+652_b,*,23,*,Never-married,*,United-States,Private,*
+576_b,*,23,*,*,*,North America,*,*
+796_b,*,23,*,*,*,North America,*,*
+746_b,*,23,*,*,*,North America,*,*
+1129_b,*,23,*,*,*,North America,*,*
+1152_b,*,23,*,*,*,North America,*,*
+1091_b,*,23,*,*,*,North America,*,*
+521_b,*,23,White,spouse not present,*,United-States,Private,*
+979_b,*,23,White,spouse not present,*,United-States,Private,*
+411_b,*,23,White,spouse not present,*,United-States,Private,*
+159_b,*,23,White,spouse not present,*,United-States,Private,*
+133_b,*,23,White,spouse not present,*,United-States,Private,*
+552_b,*,23,White,spouse not present,*,United-States,Private,*
+290_b,*,24,*,*,*,United-States,*,*
+1169_b,*,24,*,*,*,United-States,*,*
+1190_b,*,24,*,*,*,United-States,*,*
+240_b,*,24,*,*,*,United-States,*,*
+562_b,*,24,*,*,*,United-States,*,*
+488_b,*,24,*,*,*,United-States,*,*
+1106_b,*,24,White,Never-married,Higher education,United-States,*,*
+1059_b,*,24,White,Never-married,Higher education,United-States,*,*
+929_b,*,24,White,Never-married,Higher education,United-States,*,*
+1282_b,*,24,White,Never-married,Higher education,United-States,*,*
+145_b,*,24,White,Never-married,Higher education,United-States,*,*
+785_b,*,24,White,*,*,United-States,Private,Nontechnical
+1402_b,*,24,White,*,*,United-States,Private,Nontechnical
+711_b,*,24,White,*,*,United-States,Private,Nontechnical
+588_b,*,24,White,*,*,United-States,Private,Nontechnical
+1478_b,*,24,White,*,*,United-States,Private,Nontechnical
+167_b,*,24,White,*,*,United-States,Private,Nontechnical
+1237_b,*,24,*,*,*,North America,*,*
+975_b,*,24,*,*,*,North America,*,*
+149_b,*,24,*,*,*,North America,*,*
+323_b,*,24,*,*,*,North America,*,*
+265_b,*,24,*,*,*,North America,*,*
+592_b,*,24,*,*,*,North America,*,*
+1040_b,*,24,White,*,*,North America,*,Other
+1377_b,*,24,White,*,*,North America,*,Other
+655_b,*,24,White,*,*,North America,*,Other
+1234_b,*,24,White,*,*,North America,*,Other
+429_b,*,24,White,*,*,North America,*,Other
+48_b,*,24,White,*,*,North America,*,Other
+1087_b,*,24,White,*,*,North America,Non-Government,*
+396_b,*,24,White,*,*,North America,Non-Government,*
+1058_b,*,24,White,*,*,North America,Non-Government,*
+131_b,*,24,White,*,*,North America,Non-Government,*
+958_b,*,24,White,*,*,North America,Non-Government,*
+1228_b,*,24,White,*,*,North America,Non-Government,*
+550_b,*,24,*,*,*,*,Private,*
+269_b,*,24,*,*,*,*,Private,*
+1239_b,*,24,*,*,*,*,Private,*
+1374_b,*,24,*,*,*,*,Private,*
+1031_b,*,24,*,*,*,*,Private,*
+924_b,*,24,*,*,*,*,Private,*
+314_b,*,25,*,*,*,United-States,Non-Government,Nontechnical
+438_b,*,25,*,*,*,United-States,Non-Government,Nontechnical
+880_b,*,25,*,*,*,United-States,Non-Government,Nontechnical
+674_b,*,25,*,*,*,United-States,Non-Government,Nontechnical
+1400_b,*,25,*,*,*,United-States,Non-Government,Nontechnical
+480_b,*,25,*,*,*,United-States,Non-Government,Nontechnical
+645_b,Male,25,*,Never-married,*,North America,*,*
+1341_b,Male,25,*,Never-married,*,North America,*,*
+414_b,Male,25,*,Never-married,*,North America,*,*
+1333_b,Male,25,*,Never-married,*,North America,*,*
+612_b,Male,25,*,Never-married,*,North America,*,*
+623_b,Male,25,*,Never-married,*,North America,*,*
+865_b,*,25,*,*,*,North America,*,*
+614_b,*,25,*,*,*,North America,*,*
+374_b,*,25,*,*,*,North America,*,*
+721_b,*,25,*,*,*,North America,*,*
+67_b,*,25,*,*,*,North America,*,*
+32_b,*,25,*,*,*,United-States,Private,*
+37_b,*,25,*,*,*,United-States,Private,*
+51_b,*,25,*,*,*,United-States,Private,*
+653_b,*,25,*,*,*,United-States,Private,*
+1013_b,*,25,*,*,*,United-States,Private,*
+1207_b,*,25,*,*,*,United-States,Private,*
+1094_b,*,25,*,*,*,United-States,Private,Other
+903_b,*,25,*,*,*,United-States,Private,Other
+89_b,*,25,*,*,*,United-States,Private,Other
+1460_b,*,25,*,*,*,United-States,Private,Other
+888_b,*,25,*,*,*,United-States,Private,Other
+1048_b,*,25,*,*,*,United-States,Private,Other
+97_b,*,25,White,spouse not present,*,United-States,*,*
+466_b,*,25,White,spouse not present,*,United-States,*,*
+1104_b,*,25,White,spouse not present,*,United-States,*,*
+1037_b,*,25,White,spouse not present,*,United-States,*,*
+818_b,*,25,White,spouse not present,*,United-States,*,*
+954_b,*,25,White,spouse not present,*,United-States,*,*
+781_b,*,25,White,*,*,United-States,*,*
+134_b,*,25,White,*,*,United-States,*,*
+447_b,*,25,White,*,*,United-States,*,*
+406_b,*,25,White,*,*,United-States,*,*
+1327_b,*,25,White,*,*,United-States,*,*
+1496_b,*,25,White,*,*,United-States,*,*
+1198_b,*,21-30,White,*,*,United-States,Private,*
+873_b,*,21-30,White,*,*,United-States,Private,*
+479_b,*,21-30,White,*,*,United-States,Private,*
+821_b,*,21-30,White,*,*,United-States,Private,*
+1273_b,*,21-30,White,*,*,United-States,Private,*
+253_b,*,21-30,White,*,*,United-States,Private,*
+1412_b,*,26,*,*,*,*,*,*
+504_b,*,26,*,*,*,*,*,*
+630_b,*,26,*,*,*,*,*,*
+292_b,*,26,*,*,*,*,*,*
+831_b,*,26,*,*,*,*,*,*
+485_b,*,26,*,*,*,*,*,*
+71_b,*,26,*,spouse not present,*,North America,Non-Government,*
+638_b,*,26,*,spouse not present,*,North America,Non-Government,*
+296_b,*,26,*,spouse not present,*,North America,Non-Government,*
+218_b,*,26,*,spouse not present,*,North America,Non-Government,*
+57_b,*,26,*,spouse not present,*,North America,Non-Government,*
+441_b,*,26,*,spouse not present,*,North America,Non-Government,*
+456_b,*,26,*,*,*,United-States,*,Other
+683_b,*,26,*,*,*,United-States,*,Other
+326_b,*,26,*,*,*,United-States,*,Other
+1378_b,*,26,*,*,*,United-States,*,Other
+119_b,*,26,*,*,*,United-States,*,Other
+184_b,*,26,*,*,*,United-States,Non-Government,*
+63_b,*,26,*,*,*,United-States,Non-Government,*
+455_b,*,26,*,*,*,United-States,Non-Government,*
+451_b,*,26,*,*,*,United-States,Non-Government,*
+409_b,*,26,*,*,*,United-States,Non-Government,*
+776_b,*,26,*,*,*,United-States,Non-Government,*
+966_b,Male,26,White,*,*,North America,*,*
+1157_b,Male,26,White,*,*,North America,*,*
+103_b,Male,26,White,*,*,North America,*,*
+161_b,Male,26,White,*,*,North America,*,*
+939_b,Male,26,White,*,*,North America,*,*
+534_b,Male,26,White,*,*,North America,*,*
+446_b,*,26,*,*,*,*,*,Other
+1463_b,*,26,*,*,*,*,*,Other
+1138_b,*,26,*,*,*,*,*,Other
+517_b,*,26,*,*,*,*,*,Other
+181_b,*,26,*,*,*,*,*,Other
+1041_b,*,26,*,*,*,*,*,Other
+662_b,*,26-30,White,*,*,United-States,Private,*
+244_b,*,26-30,White,*,*,United-States,Private,*
+993_b,*,26-30,White,*,*,United-States,Private,*
+151_b,*,26-30,White,*,*,United-States,Private,*
+1246_b,*,26-30,White,*,*,United-States,Private,*
+1266_b,*,26-30,White,*,*,United-States,Private,*
+433_b,*,27,*,spouse not present,*,United-States,*,*
+1494_b,*,27,*,spouse not present,*,United-States,*,*
+74_b,*,27,*,spouse not present,*,United-States,*,*
+294_b,*,27,*,spouse not present,*,United-States,*,*
+1046_b,*,27,*,spouse not present,*,United-States,*,*
+202_b,*,27,*,spouse not present,*,United-States,*,*
+432_b,*,27,*,Never-married,*,*,*,*
+127_b,*,27,*,Never-married,*,*,*,*
+1258_b,*,27,*,Never-married,*,*,*,*
+1012_b,*,27,*,Never-married,*,*,*,*
+1028_b,*,27,*,Never-married,*,*,*,*
+734_b,*,27,*,Never-married,*,*,*,*
+1034_b,*,27,*,*,*,United-States,*,*
+1247_b,*,27,*,*,*,United-States,*,*
+700_b,*,27,*,*,*,United-States,*,*
+1409_b,*,27,*,*,*,United-States,*,*
+1322_b,*,27,*,*,*,United-States,*,*
+548_b,*,27,*,*,*,United-States,*,*
+583_b,*,27,*,*,*,United-States,Non-Government,*
+896_b,*,27,*,*,*,United-States,Non-Government,*
+1432_b,*,27,*,*,*,United-States,Non-Government,*
+1121_b,*,27,*,*,*,United-States,Non-Government,*
+916_b,*,27,*,*,*,United-States,Non-Government,*
+1099_b,*,27,White,*,*,North America,*,*
+241_b,*,27,White,*,*,North America,*,*
+1421_b,*,27,White,*,*,North America,*,*
+1182_b,*,27,White,*,*,North America,*,*
+1283_b,*,27,White,*,*,North America,*,*
+1426_b,*,27,White,*,*,North America,*,*
+1423_b,*,27,*,*,*,*,*,*
+123_b,*,27,*,*,*,*,*,*
+782_b,*,27,*,*,*,*,*,*
+1119_b,*,27,*,*,*,*,*,*
+1162_b,*,27,*,*,*,*,*,*
+307_b,*,27,*,*,*,*,*,*
+988_b,*,27,*,*,*,*,*,*
+1170_b,*,27,*,*,*,*,*,*
+803_b,*,27,*,*,*,*,*,*
+575_b,*,27,*,*,*,*,*,*
+1000_b,*,27,*,*,*,*,*,*
+1134_b,*,27,*,*,*,*,*,*
+1483_b,*,26-30,White,*,*,North America,*,*
+1070_b,*,26-30,White,*,*,North America,*,*
+556_b,*,26-30,White,*,*,North America,*,*
+1200_b,*,26-30,White,*,*,North America,*,*
+471_b,*,26-30,White,*,*,North America,*,*
+199_b,*,26-30,White,*,*,North America,*,*
+75_b,*,28,*,*,*,*,*,*
+320_b,*,28,*,*,*,*,*,*
+1469_b,*,28,*,*,*,*,*,*
+352_b,*,28,*,*,*,*,*,*
+659_b,*,28,*,*,*,*,*,*
+513_b,*,28,*,*,*,*,*,*
+510_b,*,28,*,*,*,United-States,*,Other
+1403_b,*,28,*,*,*,United-States,*,Other
+1307_b,*,28,*,*,*,United-States,*,Other
+1390_b,*,28,*,*,*,United-States,*,Other
+355_b,*,28,*,*,*,United-States,*,Other
+1441_b,*,28,*,*,*,United-States,*,Other
+157_b,*,28,*,*,*,*,*,*
+478_b,*,28,*,*,*,*,*,*
+52_b,*,28,*,*,*,*,*,*
+725_b,*,28,*,*,*,*,*,*
+1346_b,*,28,*,*,*,*,*,*
+19_b,*,28,*,*,*,*,*,*
+587_b,*,28,*,*,*,United-States,Private,*
+679_b,*,28,*,*,*,United-States,Private,*
+1373_b,*,28,*,*,*,United-States,Private,*
+203_b,*,28,*,*,*,United-States,Private,*
+870_b,*,28,*,*,*,United-States,Private,*
+551_b,*,28,*,*,*,United-States,*,*
+404_b,*,28,*,*,*,United-States,*,*
+1480_b,*,28,*,*,*,United-States,*,*
+544_b,*,28,*,*,*,United-States,*,*
+1128_b,*,28,*,*,*,United-States,*,*
+465_b,*,28,*,*,*,United-States,*,*
+804_b,*,26-30,*,*,Higher education,North America,*,*
+1334_b,*,26-30,*,*,Higher education,North America,*,*
+875_b,*,26-30,*,*,Higher education,North America,*,*
+1321_b,*,26-30,*,*,Higher education,North America,*,*
+963_b,*,26-30,*,*,Higher education,North America,*,*
+1450_b,*,26-30,*,*,Higher education,North America,*,*
+1011_b,*,29,*,*,*,United-States,*,Other
+978_b,*,29,*,*,*,United-States,*,Other
+779_b,*,29,*,*,*,United-States,*,Other
+1329_b,*,29,*,*,*,United-States,*,Other
+953_b,*,29,*,*,*,United-States,*,Other
+327_b,*,29,*,*,*,United-States,*,Other
+494_b,*,29,White,*,*,*,*,*
+1393_b,*,29,White,*,*,*,*,*
+141_b,*,29,White,*,*,*,*,*
+1060_b,*,29,White,*,*,*,*,*
+511_b,*,29,White,*,*,*,*,*
+1445_b,*,29,*,*,*,United-States,*,*
+530_b,*,29,*,*,*,United-States,*,*
+800_b,*,29,*,*,*,United-States,*,*
+287_b,*,29,*,*,*,United-States,*,*
+861_b,*,29,*,*,*,United-States,*,*
+1340_b,*,29,*,*,*,United-States,*,*
+928_b,*,29,*,*,*,*,*,Other
+405_b,*,29,*,*,*,*,*,Other
+266_b,*,29,*,*,*,*,*,Other
+678_b,*,29,*,*,*,*,*,Other
+1362_b,*,29,*,*,*,*,*,Other
+337_b,*,29,*,*,*,*,*,Other
+1435_b,*,26-30,*,*,*,*,*,*
+152_b,*,26-30,*,*,*,*,*,*
+712_b,*,26-30,*,*,*,*,*,*
+1376_b,*,26-30,*,*,*,*,*,*
+1303_b,*,26-30,*,*,*,*,*,*
+952_b,*,26-30,*,*,*,*,*,*
+537_b,*,30,White,*,*,North America,Non-Government,*
+1330_b,*,30,White,*,*,North America,Non-Government,*
+114_b,*,30,White,*,*,North America,Non-Government,*
+90_b,*,30,White,*,*,North America,Non-Government,*
+976_b,*,30,White,*,*,North America,Non-Government,*
+472_b,*,30,White,*,*,*,*,*
+345_b,*,30,White,*,*,*,*,*
+717_b,*,30,White,*,*,*,*,*
+473_b,*,30,White,*,*,*,*,*
+428_b,*,30,White,*,*,*,*,*
+518_b,*,30,White,*,*,*,*,*
+168_b,*,30,White,*,*,United-States,Private,*
+1380_b,*,30,White,*,*,United-States,Private,*
+1331_b,*,30,White,*,*,United-States,Private,*
+213_b,*,30,White,*,*,United-States,Private,*
+1278_b,*,30,White,*,*,United-States,Private,*
+641_b,*,30,White,*,*,United-States,Private,*
+101_b,*,30,*,*,*,United-States,*,*
+1201_b,*,30,*,*,*,United-States,*,*
+498_b,*,30,*,*,*,United-States,*,*
+557_b,*,30,*,*,*,United-States,*,*
+1256_b,*,30,*,*,*,United-States,*,*
+66_b,*,30,*,*,*,United-States,*,*
+898_b,*,30,White,*,*,North America,*,*
+42_b,*,30,White,*,*,North America,*,*
+1217_b,*,30,White,*,*,North America,*,*
+1487_b,*,30,White,*,*,North America,*,*
+680_b,*,30,White,*,*,North America,*,*
+824_b,*,30,White,*,*,North America,*,*
+594_b,*,30,*,*,*,United-States,*,Other
+635_b,*,30,*,*,*,United-States,*,Other
+533_b,*,30,*,*,*,United-States,*,Other
+747_b,*,30,*,*,*,United-States,*,Other
+299_b,*,30,*,*,*,United-States,*,Other
+391_b,*,30,*,*,*,United-States,*,Other
+728_b,*,31,*,*,*,*,*,*
+1456_b,*,31,*,*,*,*,*,*
+349_b,*,31,*,*,*,*,*,*
+1095_b,*,31,*,*,*,*,*,*
+421_b,*,31,*,*,*,*,*,*
+65_b,*,31,*,*,*,*,*,*
+422_b,Male,31,*,*,*,United-States,Non-Government,Nontechnical
+1001_b,Male,31,*,*,*,United-States,Non-Government,Nontechnical
+375_b,Male,31,*,*,*,United-States,Non-Government,Nontechnical
+1008_b,Male,31,*,*,*,United-States,Non-Government,Nontechnical
+784_b,Male,31,*,*,*,United-States,Non-Government,Nontechnical
+1101_b,Male,31,*,*,*,United-States,Non-Government,Nontechnical
+527_b,*,31,*,*,*,United-States,Private,*
+1252_b,*,31,*,*,*,United-States,Private,*
+2_b,*,31,*,*,*,United-States,Private,*
+1136_b,*,31,*,*,*,United-States,Private,*
+191_b,*,31,*,*,*,United-States,Private,*
+553_b,*,31,*,*,Higher education,United-States,*,*
+867_b,*,31,*,*,Higher education,United-States,*,*
+964_b,*,31,*,*,Higher education,United-States,*,*
+950_b,*,31,*,*,Higher education,United-States,*,*
+941_b,*,31,*,*,Higher education,United-States,*,*
+1368_b,*,31,*,*,Higher education,United-States,*,*
+745_b,*,31,*,*,High School,North America,Private,Other
+450_b,*,31,*,*,High School,North America,Private,Other
+1485_b,*,31,*,*,High School,North America,Private,Other
+802_b,*,31,*,*,High School,North America,Private,Other
+1244_b,*,31,*,*,High School,North America,Private,Other
+1089_b,*,31,*,*,High School,North America,Private,Other
+1408_b,*,31,White,*,*,North America,*,*
+331_b,*,31,White,*,*,North America,*,*
+624_b,*,31,White,*,*,North America,*,*
+280_b,*,31,White,*,*,North America,*,*
+661_b,*,31,White,*,*,North America,*,*
+1406_b,*,31,White,*,*,North America,*,*
+677_b,*,31,*,*,*,United-States,*,*
+1343_b,*,31,*,*,*,United-States,*,*
+832_b,*,31,*,*,*,United-States,*,*
+816_b,*,31,*,*,*,United-States,*,*
+1288_b,*,31,*,*,*,United-States,*,*
+555_b,*,31,*,*,*,United-States,*,*
+274_b,*,31,*,*,*,United-States,Private,*
+3_b,*,31,*,*,*,United-States,Private,*
+1345_b,*,31,*,*,*,United-States,Private,*
+1499_b,*,31,*,*,*,United-States,Private,*
+339_b,*,31,*,*,*,United-States,Private,*
+1155_b,*,31,*,*,*,United-States,Private,*
+1405_b,*,31-35,*,*,*,United-States,*,*
+945_b,*,31-35,*,*,*,United-States,*,*
+1241_b,*,31-35,*,*,*,United-States,*,*
+1202_b,*,31-35,*,*,*,United-States,*,*
+1084_b,*,31-35,*,*,*,United-States,*,*
+289_b,*,31-35,*,*,*,United-States,*,*
+1289_b,*,32,*,*,*,United-States,*,*
+788_b,*,32,*,*,*,United-States,*,*
+1209_b,*,32,*,*,*,United-States,*,*
+926_b,*,32,*,*,*,United-States,*,*
+1065_b,*,32,*,*,*,United-States,*,*
+1127_b,*,32,*,*,*,United-States,*,*
+401_b,*,32,White,*,*,North America,Non-Government,*
+1114_b,*,32,White,*,*,North America,Non-Government,*
+362_b,*,32,White,*,*,North America,Non-Government,*
+693_b,*,32,White,*,*,North America,Non-Government,*
+603_b,*,32,White,*,*,North America,Non-Government,*
+980_b,*,32,*,spouse not present,*,United-States,*,*
+848_b,*,32,*,spouse not present,*,United-States,*,*
+76_b,*,32,*,spouse not present,*,United-States,*,*
+907_b,*,32,*,spouse not present,*,United-States,*,*
+506_b,*,32,*,spouse not present,*,United-States,*,*
+468_b,*,32,*,spouse not present,*,United-States,*,*
+242_b,Male,32,White,*,*,United-States,*,Other
+185_b,Male,32,White,*,*,United-States,*,Other
+150_b,Male,32,White,*,*,United-States,*,Other
+16_b,Male,32,White,*,*,United-States,*,Other
+70_b,Male,32,White,*,*,United-States,*,Other
+423_b,Male,32,White,*,*,United-States,*,Other
+84_b,Male,32,White,*,*,United-States,*,*
+324_b,Male,32,White,*,*,United-States,*,*
+570_b,Male,32,White,*,*,United-States,*,*
+305_b,Male,32,White,*,*,United-States,*,*
+718_b,Male,32,White,*,*,United-States,*,*
+1_b,Male,32,White,*,*,United-States,*,*
+571_b,*,32,White,*,*,*,Non-Government,*
+1222_b,*,32,White,*,*,*,Non-Government,*
+944_b,*,32,White,*,*,*,Non-Government,*
+1111_b,*,32,White,*,*,*,Non-Government,*
+846_b,*,32,White,*,*,*,Non-Government,*
+564_b,*,32,White,*,*,*,Non-Government,*
+505_b,*,31-35,White,*,*,United-States,*,*
+997_b,*,31-35,White,*,*,United-States,*,*
+748_b,*,31-35,White,*,*,United-States,*,*
+419_b,*,31-35,White,*,*,United-States,*,*
+351_b,*,31-35,White,*,*,United-States,*,*
+696_b,*,31-35,White,*,*,United-States,*,*
+1118_b,*,33,White,*,*,United-States,Non-Government,*
+1074_b,*,33,White,*,*,United-States,Non-Government,*
+350_b,*,33,White,*,*,United-States,Non-Government,*
+737_b,*,33,White,*,*,United-States,Non-Government,*
+878_b,*,33,White,*,*,United-States,Non-Government,*
+59_b,*,33,White,*,*,United-States,Non-Government,*
+755_b,*,33,*,*,*,United-States,*,*
+684_b,*,33,*,*,*,United-States,*,*
+164_b,*,33,*,*,*,United-States,*,*
+1311_b,*,33,*,*,*,United-States,*,*
+1154_b,*,33,*,*,*,United-States,*,*
+1323_b,*,33,*,*,*,United-States,*,*
+1381_b,Male,33,*,*,*,*,Non-Government,*
+919_b,Male,33,*,*,*,*,Non-Government,*
+519_b,Male,33,*,*,*,*,Non-Government,*
+894_b,Male,33,*,*,*,*,Non-Government,*
+869_b,Male,33,*,*,*,*,Non-Government,*
+212_b,*,33,*,*,*,United-States,*,*
+1272_b,*,33,*,*,*,United-States,*,*
+1459_b,*,33,*,*,*,United-States,*,*
+1371_b,*,33,*,*,*,United-States,*,*
+142_b,*,33,*,*,*,United-States,*,*
+105_b,*,33,*,*,*,United-States,*,*
+394_b,Male,31-35,White,*,*,United-States,*,*
+163_b,Male,31-35,White,*,*,United-States,*,*
+558_b,Male,31-35,White,*,*,United-States,*,*
+442_b,Male,31-35,White,*,*,United-States,*,*
+1032_b,Male,31-35,White,*,*,United-States,*,*
+1196_b,Male,31-35,White,*,*,United-States,*,*
+866_b,*,34,*,*,*,*,*,*
+1219_b,*,34,*,*,*,*,*,*
+1352_b,*,34,*,*,*,*,*,*
+732_b,*,34,*,*,*,*,*,*
+1177_b,*,34,*,*,*,*,*,*
+1236_b,*,34,*,*,*,*,*,*
+1264_b,*,34,*,*,*,*,Non-Government,Technical
+906_b,*,34,*,*,*,*,Non-Government,Technical
+931_b,*,34,*,*,*,*,Non-Government,Technical
+912_b,*,34,*,*,*,*,Non-Government,Technical
+1131_b,*,34,*,*,*,*,Non-Government,Technical
+204_b,*,34,*,*,*,*,Non-Government,Technical
+872_b,*,34,*,*,*,United-States,Non-Government,*
+607_b,*,34,*,*,*,United-States,Non-Government,*
+1029_b,*,34,*,*,*,United-States,Non-Government,*
+1063_b,*,34,*,*,*,United-States,Non-Government,*
+879_b,*,34,*,*,*,United-States,Non-Government,*
+1036_b,*,34,*,*,*,United-States,Non-Government,*
+618_b,*,34,White,*,*,North America,*,*
+115_b,*,34,White,*,*,North America,*,*
+673_b,*,34,White,*,*,North America,*,*
+1262_b,*,34,White,*,*,North America,*,*
+400_b,*,34,White,*,*,North America,*,*
+219_b,*,34,White,*,*,North America,*,*
+1022_b,*,34,*,*,*,North America,Non-Government,*
+1433_b,*,34,*,*,*,North America,Non-Government,*
+532_b,*,34,*,*,*,North America,Non-Government,*
+1007_b,*,34,*,*,*,North America,Non-Government,*
+740_b,*,34,*,*,*,North America,Non-Government,*
+808_b,*,34,*,*,*,North America,Non-Government,*
+1153_b,Male,34,*,*,*,United-States,Private,*
+1110_b,Male,34,*,*,*,United-States,Private,*
+573_b,Male,34,*,*,*,United-States,Private,*
+1396_b,Male,34,*,*,*,United-States,Private,*
+1411_b,Male,34,*,*,*,United-States,Private,*
+483_b,*,31-35,*,*,*,United-States,*,*
+850_b,*,31-35,*,*,*,United-States,*,*
+596_b,*,31-35,*,*,*,United-States,*,*
+522_b,*,31-35,*,*,*,United-States,*,*
+1267_b,*,31-35,*,*,*,United-States,*,*
+17_b,*,31-35,*,*,*,United-States,*,*
+1470_b,Male,35,White,*,*,*,Non-Government,*
+1391_b,Male,35,White,*,*,*,Non-Government,*
+1015_b,Male,35,White,*,*,*,Non-Government,*
+46_b,Male,35,White,*,*,*,Non-Government,*
+1451_b,Male,35,White,*,*,*,Non-Government,*
+609_b,Male,35,White,*,*,*,Non-Government,*
+1464_b,*,35,White,*,*,United-States,Private,*
+568_b,*,35,White,*,*,United-States,Private,*
+900_b,*,35,White,*,*,United-States,Private,*
+77_b,*,35,White,*,*,United-States,Private,*
+1248_b,*,35,White,*,*,United-States,Private,*
+467_b,*,35,White,*,*,United-States,Private,*
+214_b,*,35,*,*,*,*,Non-Government,*
+1079_b,*,35,*,*,*,*,Non-Government,*
+937_b,*,35,*,*,*,*,Non-Government,*
+1039_b,*,35,*,*,*,*,Non-Government,*
+707_b,*,35,*,*,*,*,Non-Government,*
+565_b,*,35,*,*,*,*,Non-Government,*
+267_b,*,35,*,*,*,United-States,*,*
+341_b,*,35,*,*,*,United-States,*,*
+1271_b,*,35,*,*,*,United-States,*,*
+759_b,*,35,*,*,*,United-States,*,*
+118_b,*,35,*,*,*,United-States,*,*
+956_b,*,35,*,*,*,United-States,*,*
+1295_b,Male,35,White,*,*,*,*,*
+1328_b,Male,35,White,*,*,*,*,*
+951_b,Male,35,White,*,*,*,*,*
+754_b,Male,35,White,*,*,*,*,*
+231_b,Male,35,White,*,*,*,*,*
+516_b,Male,35,White,*,*,*,*,*
+366_b,*,35,*,*,*,United-States,Private,*
+543_b,*,35,*,*,*,United-States,Private,*
+1429_b,*,35,*,*,*,United-States,Private,*
+627_b,*,35,*,*,*,United-States,Private,*
+731_b,*,35,*,*,*,United-States,Private,*
+293_b,*,35,*,*,*,United-States,Private,*
+1047_b,Male,31-40,White,*,*,United-States,Private,Nontechnical
+656_b,Male,31-40,White,*,*,United-States,Private,Nontechnical
+260_b,Male,31-40,White,*,*,United-States,Private,Nontechnical
+925_b,Male,31-40,White,*,*,United-States,Private,Nontechnical
+278_b,Male,31-40,White,*,*,United-States,Private,Nontechnical
+579_b,Male,36,White,*,*,North America,*,*
+457_b,Male,36,White,*,*,North America,*,*
+1268_b,Male,36,White,*,*,North America,*,*
+1427_b,Male,36,White,*,*,North America,*,*
+611_b,Male,36,White,*,*,North America,*,*
+882_b,Male,36,White,*,*,North America,*,*
+566_b,Male,36,White,*,*,United-States,*,*
+992_b,Male,36,White,*,*,United-States,*,*
+217_b,Male,36,White,*,*,United-States,*,*
+1428_b,Male,36,White,*,*,United-States,*,*
+897_b,Male,36,White,*,*,United-States,*,*
+1353_b,Male,36,White,*,*,United-States,*,*
+752_b,*,36,White,*,*,United-States,*,*
+1285_b,*,36,White,*,*,United-States,*,*
+1016_b,*,36,White,*,*,United-States,*,*
+417_b,*,36,White,*,*,United-States,*,*
+918_b,*,36,White,*,*,United-States,*,*
+934_b,*,36,White,*,*,United-States,*,*
+24_b,*,36,White,Married-civ-spouse,*,United-States,*,*
+705_b,*,36,White,Married-civ-spouse,*,United-States,*,*
+528_b,*,36,White,Married-civ-spouse,*,United-States,*,*
+874_b,*,36,White,Married-civ-spouse,*,United-States,*,*
+1430_b,*,36,White,Married-civ-spouse,*,United-States,*,*
+20_b,*,36,White,Married-civ-spouse,*,United-States,*,*
+856_b,*,36,*,Married-civ-spouse,Higher education,*,Non-Government,*
+1316_b,*,36,*,Married-civ-spouse,Higher education,*,Non-Government,*
+78_b,*,36,*,Married-civ-spouse,Higher education,*,Non-Government,*
+1298_b,*,36,*,Married-civ-spouse,Higher education,*,Non-Government,*
+178_b,*,36,*,Married-civ-spouse,Higher education,*,Non-Government,*
+760_b,*,36,*,Married-civ-spouse,Higher education,*,Non-Government,*
+250_b,*,36-40,White,*,Higher education,*,*,*
+758_b,*,36-40,White,*,Higher education,*,*,*
+563_b,*,36-40,White,*,Higher education,*,*,*
+1461_b,*,36-40,White,*,Higher education,*,*,*
+862_b,*,36-40,White,*,Higher education,*,*,*
+1318_b,*,36-40,White,*,Higher education,*,*,*
+108_b,*,37,*,*,*,North America,Non-Government,*
+80_b,*,37,*,*,*,North America,Non-Government,*
+1160_b,*,37,*,*,*,North America,Non-Government,*
+881_b,*,37,*,*,*,North America,Non-Government,*
+165_b,*,37,*,*,*,North America,Non-Government,*
+1420_b,*,37,*,*,*,North America,Non-Government,*
+868_b,*,37,*,*,*,*,Private,*
+200_b,*,37,*,*,*,*,Private,*
+1081_b,*,37,*,*,*,*,Private,*
+606_b,*,37,*,*,*,*,Private,*
+189_b,*,37,*,*,*,*,Private,*
+1466_b,*,37,*,*,*,United-States,Non-Government,*
+621_b,*,37,*,*,*,United-States,Non-Government,*
+91_b,*,37,*,*,*,United-States,Non-Government,*
+1313_b,*,37,*,*,*,United-States,Non-Government,*
+311_b,*,37,*,*,*,United-States,Non-Government,*
+263_b,*,37,*,*,*,United-States,Non-Government,*
+1437_b,*,37,*,*,*,United-States,*,*
+491_b,*,37,*,*,*,United-States,*,*
+595_b,*,37,*,*,*,United-States,*,*
+380_b,*,37,*,*,*,United-States,*,*
+895_b,*,37,*,*,*,United-States,*,*
+625_b,*,37,*,*,*,United-States,*,*
+647_b,*,37,White,*,*,North America,Non-Government,*
+844_b,*,37,White,*,*,North America,Non-Government,*
+703_b,*,37,White,*,*,North America,Non-Government,*
+1399_b,*,37,White,*,*,North America,Non-Government,*
+243_b,*,37,White,*,*,North America,Non-Government,*
+1147_b,*,37,White,*,*,North America,Non-Government,*
+69_b,*,37,White,*,*,United-States,*,*
+1454_b,*,37,White,*,*,United-States,*,*
+960_b,*,37,White,*,*,United-States,*,*
+541_b,*,37,White,*,*,United-States,*,*
+1212_b,*,37,White,*,*,United-States,*,*
+1210_b,*,37,White,*,*,United-States,*,*
+248_b,Male,36-40,*,Married-civ-spouse,*,North America,Private,*
+336_b,Male,36-40,*,Married-civ-spouse,*,North America,Private,*
+1133_b,Male,36-40,*,Married-civ-spouse,*,North America,Private,*
+1422_b,Male,36-40,*,Married-civ-spouse,*,North America,Private,*
+335_b,Male,36-40,*,Married-civ-spouse,*,North America,Private,*
+1146_b,Male,36-40,*,Married-civ-spouse,*,North America,Private,*
+1308_b,Male,38,*,*,*,United-States,Non-Government,*
+469_b,Male,38,*,*,*,United-States,Non-Government,*
+1151_b,Male,38,*,*,*,United-States,Non-Government,*
+282_b,Male,38,*,*,*,United-States,Non-Government,*
+273_b,Male,38,*,*,*,United-States,Non-Government,*
+148_b,Male,38,*,*,*,United-States,Non-Government,*
+780_b,*,38,*,*,*,*,*,*
+695_b,*,38,*,*,*,*,*,*
+1030_b,*,38,*,*,*,*,*,*
+356_b,*,38,*,*,*,*,*,*
+56_b,*,38,*,*,*,*,*,*
+162_b,*,38,*,*,*,*,*,*
+1294_b,*,38,*,*,*,United-States,*,*
+458_b,*,38,*,*,*,United-States,*,*
+761_b,*,38,*,*,*,United-States,*,*
+1379_b,*,38,*,*,*,United-States,*,*
+415_b,*,38,*,*,*,United-States,*,*
+279_b,*,38,*,*,*,North America,Non-Government,Other
+791_b,*,38,*,*,*,North America,Non-Government,Other
+358_b,*,38,*,*,*,North America,Non-Government,Other
+1455_b,*,38,*,*,*,North America,Non-Government,Other
+302_b,*,38,*,*,*,North America,Non-Government,Other
+125_b,*,38,*,*,*,North America,Non-Government,Other
+1214_b,*,38,*,*,*,United-States,*,*
+186_b,*,38,*,*,*,United-States,*,*
+25_b,*,38,*,*,*,United-States,*,*
+965_b,*,38,*,*,*,United-States,*,*
+482_b,*,38,*,*,*,United-States,*,*
+1339_b,*,38,*,*,*,United-States,*,*
+995_b,*,36-40,White,*,*,United-States,Non-Government,*
+310_b,*,36-40,White,*,*,United-States,Non-Government,*
+395_b,*,36-40,White,*,*,United-States,Non-Government,*
+977_b,*,36-40,White,*,*,United-States,Non-Government,*
+1053_b,*,36-40,White,*,*,United-States,Non-Government,*
+1458_b,*,36-40,White,*,*,United-States,Non-Government,*
+1300_b,Male,39,White,*,*,North America,*,*
+1452_b,Male,39,White,*,*,North America,*,*
+922_b,Male,39,White,*,*,North America,*,*
+547_b,Male,39,White,*,*,North America,*,*
+196_b,Male,39,White,*,*,North America,*,*
+461_b,Male,39,*,*,*,North America,*,*
+175_b,Male,39,*,*,*,North America,*,*
+1350_b,Male,39,*,*,*,North America,*,*
+962_b,Male,39,*,*,*,North America,*,*
+452_b,Male,39,*,*,*,North America,*,*
+942_b,Male,39,*,*,*,North America,*,*
+342_b,*,39,*,*,*,United-States,Private,*
+771_b,*,39,*,*,*,United-States,Private,*
+1453_b,*,39,*,*,*,United-States,Private,*
+843_b,*,39,*,*,*,United-States,Private,*
+459_b,*,39,*,*,*,United-States,Private,*
+1293_b,*,39,*,*,*,United-States,Private,*
+1078_b,*,39,*,*,*,North America,*,Nontechnical
+43_b,*,39,*,*,*,North America,*,Nontechnical
+649_b,*,39,*,*,*,North America,*,Nontechnical
+524_b,*,39,*,*,*,North America,*,Nontechnical
+969_b,*,39,*,*,*,North America,*,Nontechnical
+973_b,*,39,*,*,*,North America,*,Nontechnical
+1189_b,*,39,*,*,*,United-States,*,*
+1140_b,*,39,*,*,*,United-States,*,*
+153_b,*,39,*,*,*,United-States,*,*
+275_b,*,39,*,*,*,United-States,*,*
+121_b,*,39,*,*,*,United-States,*,*
+560_b,*,39,*,Married-civ-spouse,*,North America,Private,*
+338_b,*,39,*,Married-civ-spouse,*,North America,Private,*
+719_b,*,39,*,Married-civ-spouse,*,North America,Private,*
+1194_b,*,39,*,Married-civ-spouse,*,North America,Private,*
+486_b,*,39,*,Married-civ-spouse,*,North America,Private,*
+11_b,*,39,*,Married-civ-spouse,*,North America,Private,*
+420_b,Male,40,*,*,*,North America,Non-Government,*
+1387_b,Male,40,*,*,*,North America,Non-Government,*
+110_b,Male,40,*,*,*,North America,Non-Government,*
+1324_b,Male,40,*,*,*,North America,Non-Government,*
+5_b,Male,40,*,*,*,North America,Non-Government,*
+790_b,Male,40,*,*,*,North America,Non-Government,*
+155_b,*,40,*,*,*,North America,Non-Government,*
+1069_b,*,40,*,*,*,North America,Non-Government,*
+1054_b,*,40,*,*,*,North America,Non-Government,*
+309_b,*,40,*,*,*,North America,Non-Government,*
+1281_b,*,40,*,*,*,North America,Non-Government,*
+316_b,*,40,*,*,*,North America,Non-Government,*
+839_b,*,40,*,*,*,*,*,*
+520_b,*,40,*,*,*,*,*,*
+1181_b,*,40,*,*,*,*,*,*
+198_b,*,40,*,*,*,*,*,*
+1249_b,*,40,*,*,*,*,*,*
+1354_b,*,40,*,*,*,*,*,*
+283_b,*,40,White,*,*,United-States,*,*
+1175_b,*,40,White,*,*,United-States,*,*
+1382_b,*,40,White,*,*,United-States,*,*
+1375_b,*,40,White,*,*,United-States,*,*
+343_b,*,40,White,*,*,United-States,*,*
+833_b,*,40,White,*,*,United-States,*,*
+1416_b,*,40,*,*,Higher education,United-States,*,*
+1231_b,*,40,*,*,Higher education,United-States,*,*
+619_b,*,40,*,*,Higher education,United-States,*,*
+49_b,*,40,*,*,Higher education,United-States,*,*
+1195_b,*,40,*,*,Higher education,United-States,*,*
+1436_b,*,40,*,*,Higher education,United-States,*,*
+495_b,*,40,*,*,*,United-States,*,*
+501_b,*,40,*,*,*,United-States,*,*
+44_b,*,40,*,*,*,United-States,*,*
+1102_b,*,40,*,*,*,United-States,*,*
+1471_b,*,40,*,*,*,United-States,*,*
+6_b,*,40,*,*,*,United-States,*,*
+1143_b,*,*,White,*,Higher education,United-States,Non-Government,*
+1097_b,*,*,White,*,Higher education,United-States,Non-Government,*
+1305_b,*,*,White,*,Higher education,United-States,Non-Government,*
+987_b,*,*,White,*,Higher education,United-States,Non-Government,*
+817_b,*,*,White,*,Higher education,United-States,Non-Government,*
+1082_b,*,41,*,*,*,United-States,*,*
+126_b,*,41,*,*,*,United-States,*,*
+697_b,*,41,*,*,*,United-States,*,*
+1021_b,*,41,*,*,*,United-States,*,*
+39_b,*,41,*,*,*,United-States,*,*
+706_b,*,41,*,*,*,United-States,*,*
+1071_b,*,41,*,*,*,*,*,*
+462_b,*,41,*,*,*,*,*,*
+1141_b,*,41,*,*,*,*,*,*
+277_b,*,41,*,*,*,*,*,*
+794_b,*,41,*,*,*,*,*,*
+1312_b,*,41,*,*,*,*,*,*
+1242_b,*,41,*,*,*,*,Private,*
+835_b,*,41,*,*,*,*,Private,*
+1238_b,*,41,*,*,*,*,Private,*
+806_b,*,41,*,*,*,*,Private,*
+983_b,*,41,*,*,*,*,Private,*
+7_b,*,41,*,*,*,*,Private,*
+359_b,*,41,White,*,*,North America,*,*
+687_b,*,41,White,*,*,North America,*,*
+1286_b,*,41,White,*,*,North America,*,*
+660_b,*,41,White,*,*,North America,*,*
+1338_b,*,41,White,*,*,North America,*,*
+21_b,*,41,White,*,*,North America,*,*
+1213_b,*,41,White,*,*,North America,*,*
+1103_b,*,41,White,*,*,North America,*,*
+853_b,*,41,White,*,*,North America,*,*
+1287_b,*,41,White,*,*,North America,*,*
+319_b,*,41,White,*,*,North America,*,*
+1044_b,*,41,White,*,*,North America,*,*
+601_b,*,41-45,*,*,*,United-States,*,*
+220_b,*,41-45,*,*,*,United-States,*,*
+933_b,*,41-45,*,*,*,United-States,*,*
+650_b,*,41-45,*,*,*,United-States,*,*
+582_b,*,41-45,*,*,*,United-States,*,*
+1277_b,*,41-45,*,*,*,United-States,*,*
+809_b,*,42,*,*,*,United-States,Non-Government,*
+207_b,*,42,*,*,*,United-States,Non-Government,*
+430_b,*,42,*,*,*,United-States,Non-Government,*
+86_b,*,42,*,*,*,United-States,Non-Government,*
+914_b,*,42,*,*,*,United-States,Non-Government,*
+1009_b,*,42,*,*,*,United-States,Non-Government,*
+626_b,*,42,White,*,Higher education,United-States,Non-Government,*
+972_b,*,42,White,*,Higher education,United-States,Non-Government,*
+427_b,*,42,White,*,Higher education,United-States,Non-Government,*
+276_b,*,42,White,*,Higher education,United-States,Non-Government,*
+777_b,*,42,White,*,Higher education,United-States,Non-Government,*
+463_b,Male,42,*,Married-civ-spouse,*,United-States,*,Nontechnical
+938_b,Male,42,*,Married-civ-spouse,*,United-States,*,Nontechnical
+1105_b,Male,42,*,Married-civ-spouse,*,United-States,*,Nontechnical
+798_b,Male,42,*,Married-civ-spouse,*,United-States,*,Nontechnical
+825_b,Male,42,*,Married-civ-spouse,*,United-States,*,Nontechnical
+735_b,Male,42,*,Married-civ-spouse,*,United-States,*,Nontechnical
+304_b,*,42,*,*,Higher education,United-States,*,*
+340_b,*,42,*,*,Higher education,United-States,*,*
+386_b,*,42,*,*,Higher education,United-States,*,*
+1419_b,*,42,*,*,Higher education,United-States,*,*
+830_b,*,42,*,*,Higher education,United-States,*,*
+749_b,*,42,*,*,Higher education,United-States,*,*
+444_b,*,42,White,*,*,North America,*,*
+1386_b,*,42,White,*,*,North America,*,*
+1165_b,*,42,White,*,*,North America,*,*
+1192_b,*,42,White,*,*,North America,*,*
+699_b,*,42,White,*,*,North America,*,*
+666_b,*,42,White,*,*,North America,*,*
+889_b,*,42,*,*,*,United-States,*,*
+1120_b,*,42,*,*,*,United-States,*,*
+1467_b,*,42,*,*,*,United-States,*,*
+1481_b,*,42,*,*,*,United-States,*,*
+88_b,*,42,*,*,*,United-States,*,*
+1216_b,*,42,*,*,*,United-States,*,*
+637_b,*,42,White,*,*,United-States,Private,*
+1107_b,*,42,White,*,*,United-States,Private,*
+620_b,*,42,White,*,*,United-States,Private,*
+318_b,*,42,White,*,*,United-States,Private,*
+1367_b,*,42,White,*,*,United-States,Private,*
+1490_b,*,42,White,*,*,United-States,Private,*
+239_b,*,41-45,*,*,*,United-States,*,*
+1113_b,*,41-45,*,*,*,United-States,*,*
+886_b,*,41-45,*,*,*,United-States,*,*
+1150_b,*,41-45,*,*,*,United-States,*,*
+1052_b,*,41-45,*,*,*,United-States,*,*
+139_b,*,41-45,*,*,*,United-States,*,*
+1130_b,Male,43,White,*,*,United-States,Private,*
+270_b,Male,43,White,*,*,United-States,Private,*
+245_b,Male,43,White,*,*,United-States,Private,*
+1366_b,Male,43,White,*,*,United-States,Private,*
+786_b,Male,43,White,*,*,United-States,Private,*
+477_b,Male,43,White,*,*,United-States,Private,*
+1229_b,Male,43,*,*,Higher education,United-States,*,*
+819_b,Male,43,*,*,Higher education,United-States,*,*
+143_b,Male,43,*,*,Higher education,United-States,*,*
+346_b,Male,43,*,*,Higher education,United-States,*,*
+64_b,Male,43,*,*,Higher education,United-States,*,*
+116_b,*,43,*,*,*,United-States,*,*
+756_b,*,43,*,*,*,United-States,*,*
+227_b,*,43,*,*,*,United-States,*,*
+1218_b,*,43,*,*,*,United-States,*,*
+493_b,*,43,*,*,*,United-States,*,*
+249_b,*,43,*,*,*,United-States,*,*
+235_b,Male,43,White,*,*,United-States,*,*
+1392_b,Male,43,White,*,*,United-States,*,*
+303_b,Male,43,White,*,*,United-States,*,*
+1020_b,Male,43,White,*,*,United-States,*,*
+636_b,Male,43,White,*,*,United-States,*,*
+373_b,Male,43,White,*,*,United-States,*,*
+1439_b,Male,43,White,*,*,United-States,*,*
+1335_b,Male,43,White,*,*,United-States,*,*
+60_b,Male,43,White,*,*,United-States,*,*
+1226_b,Male,43,White,*,*,United-States,*,*
+334_b,Male,43,White,*,*,United-States,*,*
+1253_b,Male,43,White,*,*,United-States,*,*
+426_b,*,44,*,*,*,*,Non-Government,Nontechnical
+132_b,*,44,*,*,*,*,Non-Government,Nontechnical
+789_b,*,44,*,*,*,*,Non-Government,Nontechnical
+1259_b,*,44,*,*,*,*,Non-Government,Nontechnical
+681_b,*,44,*,*,*,*,Non-Government,Nontechnical
+1465_b,*,44,*,*,*,*,Non-Government,Nontechnical
+860_b,Male,44,White,*,Higher education,United-States,Private,*
+921_b,Male,44,White,*,Higher education,United-States,Private,*
+261_b,Male,44,White,*,Higher education,United-States,Private,*
+538_b,Male,44,White,*,Higher education,United-States,Private,*
+252_b,Male,44,White,*,Higher education,United-States,Private,*
+470_b,Male,44,White,*,Higher education,United-States,Private,*
+226_b,*,44,*,*,*,*,*,*
+285_b,*,44,*,*,*,*,*,*
+664_b,*,44,*,*,*,*,*,*
+257_b,*,44,*,*,*,*,*,*
+770_b,*,44,*,*,*,*,*,*
+657_b,*,44,*,*,*,*,*,*
+984_b,*,44,*,*,*,North America,*,*
+31_b,*,44,*,*,*,North America,*,*
+1326_b,*,44,*,*,*,North America,*,*
+453_b,*,44,*,*,*,North America,*,*
+773_b,*,44,*,*,*,North America,*,*
+940_b,*,44,*,*,*,North America,*,*
+188_b,Male,44,White,Married-civ-spouse,*,United-States,*,Nontechnical
+496_b,Male,44,White,Married-civ-spouse,*,United-States,*,Nontechnical
+144_b,Male,44,White,Married-civ-spouse,*,United-States,*,Nontechnical
+569_b,Male,44,White,Married-civ-spouse,*,United-States,*,Nontechnical
+234_b,Male,44,White,Married-civ-spouse,*,United-States,*,Nontechnical
+190_b,*,44,*,*,*,*,Private,*
+723_b,*,44,*,*,*,*,Private,*
+1309_b,*,44,*,*,*,*,Private,*
+229_b,*,44,*,*,*,*,Private,*
+94_b,*,44,*,*,*,*,Private,*
+1276_b,*,44,*,*,*,*,Private,*
+1446_b,*,44,*,*,*,*,*,*
+29_b,*,44,*,*,*,*,*,*
+1491_b,*,44,*,*,*,*,*,*
+407_b,*,44,*,*,*,*,*,*
+221_b,*,44,*,*,*,*,*,*
+431_b,*,44,*,*,*,*,*,*
+1348_b,*,45,*,*,*,*,Private,*
+857_b,*,45,*,*,*,*,Private,*
+179_b,*,45,*,*,*,*,Private,*
+1407_b,*,45,*,*,*,*,Private,*
+820_b,*,45,*,*,*,*,Private,*
+392_b,*,45,*,*,*,*,Private,*
+764_b,*,45,*,*,*,*,*,*
+648_b,*,45,*,*,*,*,*,*
+474_b,*,45,*,*,*,*,*,*
+753_b,*,45,*,*,*,*,*,*
+72_b,*,45,*,*,*,*,*,*
+348_b,*,45,*,*,*,*,*,*
+1090_b,*,45,*,*,*,United-States,*,*
+730_b,*,45,*,*,*,United-States,*,*
+137_b,*,45,*,*,*,United-States,*,*
+1108_b,*,45,*,*,*,United-States,*,*
+1310_b,*,45,*,*,*,United-States,*,*
+840_b,*,45,*,*,*,United-States,*,*
+1479_b,*,45,White,*,*,*,*,*
+195_b,*,45,White,*,*,*,*,*
+1086_b,*,45,White,*,*,*,*,*
+445_b,*,45,White,*,*,*,*,*
+308_b,*,45,White,*,*,*,*,*
+1359_b,*,45,White,*,*,*,*,*
+692_b,*,45,*,*,*,United-States,*,*
+398_b,*,45,*,*,*,United-States,*,*
+608_b,*,45,*,*,*,United-States,*,*
+28_b,*,45,*,*,*,United-States,*,*
+643_b,*,45,*,*,*,United-States,*,*
+300_b,*,45,*,*,*,United-States,*,*
+739_b,*,45,White,*,*,United-States,*,*
+382_b,*,45,White,*,*,United-States,*,*
+454_b,*,45,White,*,*,United-States,*,*
+823_b,*,45,White,*,*,United-States,*,*
+915_b,*,45,White,*,*,United-States,*,*
+1092_b,*,41-50,*,*,*,*,*,*
+1199_b,*,41-50,*,*,*,*,*,*
+1444_b,*,41-50,*,*,*,*,*,*
+515_b,*,41-50,*,*,*,*,*,*
+772_b,*,41-50,*,*,*,*,*,*
+10_b,*,41-50,*,*,*,*,*,*
+291_b,*,46,*,*,*,United-States,*,*
+1337_b,*,46,*,*,*,United-States,*,*
+233_b,*,46,*,*,*,United-States,*,*
+172_b,*,46,*,*,*,United-States,*,*
+667_b,*,46,*,*,*,United-States,*,*
+968_b,*,46,*,*,*,United-States,*,*
+1055_b,*,46,White,*,*,United-States,Private,Nontechnical
+668_b,*,46,White,*,*,United-States,Private,Nontechnical
+1017_b,*,46,White,*,*,United-States,Private,Nontechnical
+412_b,*,46,White,*,*,United-States,Private,Nontechnical
+183_b,*,46,White,*,*,United-States,Private,Nontechnical
+955_b,*,46,White,*,*,United-States,Private,Nontechnical
+371_b,*,46,*,*,High School,*,*,*
+811_b,*,46,*,*,High School,*,*,*
+9_b,*,46,*,*,High School,*,*,*
+971_b,*,46,*,*,High School,*,*,*
+489_b,*,46,*,*,High School,*,*,*
+418_b,*,46,*,*,High School,*,*,*
+709_b,*,46,*,*,*,United-States,*,*
+41_b,*,46,*,*,*,United-States,*,*
+1184_b,*,46,*,*,*,United-States,*,*
+1492_b,*,46,*,*,*,United-States,*,*
+783_b,*,46,*,*,*,United-States,*,*
+1168_b,*,46,*,*,*,United-States,*,*
+604_b,Male,46,White,Married-civ-spouse,*,United-States,*,*
+1075_b,Male,46,White,Married-civ-spouse,*,United-States,*,*
+1124_b,Male,46,White,Married-civ-spouse,*,United-States,*,*
+1221_b,Male,46,White,Married-civ-spouse,*,United-States,*,*
+807_b,Male,46,White,Married-civ-spouse,*,United-States,*,*
+95_b,Male,46,White,Married-civ-spouse,*,United-States,*,*
+321_b,*,46-50,*,*,*,United-States,*,*
+35_b,*,46-50,*,*,*,United-States,*,*
+1360_b,*,46-50,*,*,*,United-States,*,*
+385_b,*,46-50,*,*,*,United-States,*,*
+642_b,*,46-50,*,*,*,United-States,*,*
+1336_b,*,46-50,*,*,*,United-States,*,*
+616_b,*,47,*,*,*,*,Non-Government,*
+1033_b,*,47,*,*,*,*,Non-Government,*
+1265_b,*,47,*,*,*,*,Non-Government,*
+238_b,*,47,*,*,*,*,Non-Government,*
+140_b,*,47,*,*,*,*,Non-Government,*
+315_b,Male,47,*,*,*,*,*,*
+1275_b,Male,47,*,*,*,*,*,*
+691_b,Male,47,*,*,*,*,*,*
+464_b,Male,47,*,*,*,*,*,*
+1215_b,Male,47,*,*,*,*,*,*
+99_b,Male,47,*,*,*,*,*,*
+1023_b,*,47,*,*,*,United-States,*,*
+1067_b,*,47,*,*,*,United-States,*,*
+574_b,*,47,*,*,*,United-States,*,*
+663_b,*,47,*,*,*,United-States,*,*
+100_b,*,47,*,*,*,United-States,*,*
+797_b,*,47,*,*,*,United-States,*,*
+1171_b,*,47,*,*,*,United-States,*,Other
+109_b,*,47,*,*,*,United-States,*,Other
+658_b,*,47,*,*,*,United-States,*,Other
+22_b,*,47,*,*,*,United-States,*,Other
+1325_b,*,47,*,*,*,United-States,*,Other
+599_b,*,47,*,*,*,United-States,*,Other
+174_b,*,47,*,*,*,North America,Non-Government,*
+222_b,*,47,*,*,*,North America,Non-Government,*
+1398_b,*,47,*,*,*,North America,Non-Government,*
+710_b,*,47,*,*,*,North America,Non-Government,*
+535_b,*,47,*,*,*,North America,Non-Government,*
+654_b,*,47,*,*,*,North America,Non-Government,*
+633_b,*,47,White,*,*,*,*,*
+1486_b,*,47,White,*,*,*,*,*
+1224_b,*,47,White,*,*,*,*,*
+686_b,*,47,White,*,*,*,*,*
+410_b,*,47,White,*,*,*,*,*
+871_b,*,47,White,*,*,*,*,*
+1364_b,*,47,*,*,*,*,Private,Other
+1122_b,*,47,*,*,*,*,Private,Other
+729_b,*,47,*,*,*,*,Private,Other
+55_b,*,47,*,*,*,*,Private,Other
+4_b,*,47,*,*,*,*,Private,Other
+877_b,*,47,*,*,*,*,Private,Other
+40_b,*,46-50,White,*,*,United-States,Non-Government,*
+970_b,*,46-50,White,*,*,United-States,Non-Government,*
+567_b,*,46-50,White,*,*,United-States,Non-Government,*
+1269_b,*,46-50,White,*,*,United-States,Non-Government,*
+1315_b,*,46-50,White,*,*,United-States,Non-Government,*
+347_b,*,46-50,White,*,*,United-States,Non-Government,*
+1139_b,*,48,White,*,*,United-States,*,*
+1142_b,*,48,White,*,*,United-States,*,*
+208_b,*,48,White,*,*,United-States,*,*
+1173_b,*,48,White,*,*,United-States,*,*
+1417_b,*,48,White,*,*,United-States,*,*
+1358_b,*,48,*,*,*,United-States,Non-Government,*
+795_b,*,48,*,*,*,United-States,Non-Government,*
+106_b,*,48,*,*,*,United-States,Non-Government,*
+187_b,*,48,*,*,*,United-States,Non-Government,*
+716_b,*,48,*,*,*,United-States,Non-Government,*
+959_b,*,48,*,*,*,United-States,Non-Government,*
+1232_b,*,48,*,*,*,United-States,Non-Government,*
+1410_b,*,48,*,*,*,United-States,Non-Government,*
+913_b,*,48,*,*,*,United-States,Non-Government,*
+372_b,*,48,*,*,*,United-States,Non-Government,*
+1066_b,*,48,*,*,*,United-States,Non-Government,*
+523_b,*,48,*,*,*,United-States,Non-Government,*
+1024_b,*,46-50,*,*,*,United-States,*,*
+259_b,*,46-50,*,*,*,United-States,*,*
+111_b,*,46-50,*,*,*,United-States,*,*
+1474_b,*,46-50,*,*,*,United-States,*,*
+154_b,*,46-50,*,*,*,United-States,*,*
+733_b,*,46-50,*,*,*,United-States,*,*
+47_b,*,49,White,*,*,*,Non-Government,*
+1449_b,*,49,White,*,*,*,Non-Government,*
+34_b,*,49,White,*,*,*,Non-Government,*
+1137_b,*,49,White,*,*,*,Non-Government,*
+272_b,*,49,White,*,*,*,Non-Government,*
+112_b,*,49,*,*,*,United-States,*,Other
+629_b,*,49,*,*,*,United-States,*,Other
+1163_b,*,49,*,*,*,United-States,*,Other
+322_b,*,49,*,*,*,United-States,*,Other
+369_b,*,49,*,*,*,United-States,*,Other
+526_b,*,49,*,*,*,United-States,*,Other
+720_b,*,49,*,*,*,United-States,Private,*
+288_b,*,49,*,*,*,United-States,Private,*
+670_b,*,49,*,*,*,United-States,Private,*
+1388_b,*,49,*,*,*,United-States,Private,*
+509_b,*,49,*,*,*,United-States,Private,*
+330_b,*,49,*,*,*,United-States,Private,*
+81_b,*,49,White,*,Higher education,United-States,*,*
+1415_b,*,49,White,*,Higher education,United-States,*,*
+727_b,*,49,White,*,Higher education,United-States,*,*
+578_b,*,49,White,*,Higher education,United-States,*,*
+1462_b,*,49,White,*,Higher education,United-States,*,*
+1425_b,*,49,White,*,Higher education,United-States,*,*
+1148_b,*,49,White,*,*,*,*,Nontechnical
+1208_b,*,49,White,*,*,*,*,Nontechnical
+225_b,*,49,White,*,*,*,*,Nontechnical
+14_b,*,49,White,*,*,*,*,Nontechnical
+539_b,*,49,White,*,*,*,*,Nontechnical
+1493_b,*,50,*,*,*,North America,*,*
+484_b,*,50,*,*,*,North America,*,*
+23_b,*,50,*,*,*,North America,*,*
+246_b,*,50,*,*,*,North America,*,*
+508_b,*,50,*,*,*,North America,*,*
+113_b,*,50,*,*,*,North America,*,*
+714_b,*,50,*,*,*,North America,*,Other
+301_b,*,50,*,*,*,North America,*,Other
+360_b,*,50,*,*,*,North America,*,Other
+1126_b,*,50,*,*,*,North America,*,Other
+230_b,*,50,*,*,*,North America,*,Other
+1174_b,*,50,*,*,*,North America,*,Other
+27_b,*,50,*,*,*,*,*,Other
+974_b,*,50,*,*,*,*,*,Other
+1395_b,*,50,*,*,*,*,*,Other
+722_b,*,50,*,*,*,*,*,Other
+1076_b,*,50,*,*,*,*,*,Other
+176_b,*,50,*,*,*,*,*,Other
+328_b,Male,50,White,*,*,North America,*,*
+1284_b,Male,50,White,*,*,North America,*,*
+996_b,Male,50,White,*,*,North America,*,*
+1186_b,Male,50,White,*,*,North America,*,*
+353_b,Male,50,White,*,*,North America,*,*
+920_b,Male,50,White,*,*,North America,*,*
+156_b,Male,41-60,White,*,*,*,Private,Nontechnical
+536_b,Male,41-60,White,*,*,*,Private,Nontechnical
+30_b,Male,41-60,White,*,*,*,Private,Nontechnical
+577_b,Male,41-60,White,*,*,*,Private,Nontechnical
+193_b,Male,41-60,White,*,*,*,Private,Nontechnical
+1314_b,Male,41-60,White,*,*,*,Private,Nontechnical
+236_b,Male,51,*,Married-civ-spouse,*,North America,Private,*
+766_b,Male,51,*,Married-civ-spouse,*,North America,Private,*
+258_b,Male,51,*,Married-civ-spouse,*,North America,Private,*
+1045_b,Male,51,*,Married-civ-spouse,*,North America,Private,*
+917_b,Male,51,*,Married-civ-spouse,*,North America,Private,*
+138_b,Male,51,*,Married-civ-spouse,*,North America,Private,*
+1193_b,*,51,*,*,*,United-States,Private,*
+851_b,*,51,*,*,*,United-States,Private,*
+698_b,*,51,*,*,*,United-States,Private,*
+1149_b,*,51,*,*,*,United-States,Private,*
+763_b,*,51,*,*,*,United-States,Private,*
+613_b,*,51,*,*,*,United-States,Private,*
+750_b,*,51,White,*,Higher education,North America,*,Other
+507_b,*,51,White,*,Higher education,North America,*,Other
+1475_b,*,51,White,*,Higher education,North America,*,Other
+628_b,*,51,White,*,Higher education,North America,*,Other
+1073_b,*,51,White,*,Higher education,North America,*,Other
+378_b,Male,51,White,*,*,United-States,*,*
+1014_b,Male,51,White,*,*,United-States,*,*
+542_b,Male,51,White,*,*,United-States,*,*
+1233_b,Male,51,White,*,*,United-States,*,*
+329_b,Male,51,White,*,*,United-States,*,*
+1477_b,Male,51,White,*,*,United-States,*,*
+610_b,Male,51-55,*,Married-civ-spouse,*,United-States,*,*
+377_b,Male,51-55,*,Married-civ-spouse,*,United-States,*,*
+367_b,Male,51-55,*,Married-civ-spouse,*,United-States,*,*
+622_b,Male,51-55,*,Married-civ-spouse,*,United-States,*,*
+232_b,Male,51-55,*,Married-civ-spouse,*,United-States,*,*
+281_b,Male,51-55,*,Married-civ-spouse,*,United-States,*,*
+1109_b,*,52,*,*,*,United-States,*,*
+634_b,*,52,*,*,*,United-States,*,*
+990_b,*,52,*,*,*,United-States,*,*
+1183_b,*,52,*,*,*,United-States,*,*
+194_b,*,52,*,*,*,United-States,*,*
+357_b,*,52,*,*,*,United-States,*,*
+460_b,*,52,*,*,*,United-States,Non-Government,*
+672_b,*,52,*,*,*,United-States,Non-Government,*
+632_b,*,52,*,*,*,United-States,Non-Government,*
+147_b,*,52,*,*,*,United-States,Non-Government,*
+206_b,*,52,*,*,*,United-States,Non-Government,*
+1018_b,*,52,*,*,*,United-States,Non-Government,*
+364_b,*,52,White,*,*,United-States,*,Nontechnical
+1068_b,*,52,White,*,*,United-States,*,Nontechnical
+1003_b,*,52,White,*,*,United-States,*,Nontechnical
+812_b,*,52,White,*,*,United-States,*,Nontechnical
+1116_b,*,52,White,*,*,United-States,*,Nontechnical
+384_b,*,52,White,*,*,United-States,*,Nontechnical
+107_b,*,51-55,*,*,*,North America,Non-Government,*
+397_b,*,51-55,*,*,*,North America,Non-Government,*
+1389_b,*,51-55,*,*,*,North America,Non-Government,*
+741_b,*,51-55,*,*,*,North America,Non-Government,*
+1279_b,*,51-55,*,*,*,North America,Non-Government,*
+1280_b,*,51-55,*,*,*,North America,Non-Government,*
+847_b,*,53,*,*,*,*,*,*
+904_b,*,53,*,*,*,*,*,*
+827_b,*,53,*,*,*,*,*,*
+8_b,*,53,*,*,*,*,*,*
+73_b,*,53,*,*,*,*,*,*
+251_b,*,53,*,*,*,*,*,*
+256_b,*,53,*,*,*,United-States,*,Nontechnical
+584_b,*,53,*,*,*,United-States,*,Nontechnical
+313_b,*,53,*,*,*,United-States,*,Nontechnical
+1431_b,*,53,*,*,*,United-States,*,Nontechnical
+590_b,*,53,*,*,*,United-States,*,Nontechnical
+1347_b,*,53,*,*,*,*,Non-Government,*
+1225_b,*,53,*,*,*,*,Non-Government,*
+1413_b,*,53,*,*,*,*,Non-Government,*
+62_b,*,53,*,*,*,*,Non-Government,*
+1500_b,*,53,*,*,*,*,Non-Government,*
+1369_b,*,53,*,*,*,*,Non-Government,*
+1112_b,*,51-55,White,*,*,United-States,*,*
+586_b,*,51-55,White,*,*,United-States,*,*
+525_b,*,51-55,White,*,*,United-States,*,*
+1056_b,*,51-55,White,*,*,United-States,*,*
+1255_b,*,51-55,White,*,*,United-States,*,*
+1498_b,*,51-55,White,*,*,United-States,*,*
+887_b,*,54,White,*,*,*,*,*
+180_b,*,54,White,*,*,*,*,*
+205_b,*,54,White,*,*,*,*,*
+991_b,*,54,White,*,*,*,*,*
+911_b,*,54,White,*,*,*,*,*
+947_b,*,54,White,*,*,*,*,*
+704_b,*,54,*,Married-civ-spouse,*,United-States,Non-Government,*
+1297_b,*,54,*,Married-civ-spouse,*,United-States,Non-Government,*
+762_b,*,54,*,Married-civ-spouse,*,United-States,Non-Government,*
+262_b,*,54,*,Married-civ-spouse,*,United-States,Non-Government,*
+1320_b,*,54,*,Married-civ-spouse,*,United-States,Non-Government,*
+1205_b,*,54,*,Married-civ-spouse,*,United-States,Non-Government,*
+286_b,*,51-55,White,*,*,United-States,*,*
+1038_b,*,51-55,White,*,*,United-States,*,*
+1472_b,*,51-55,White,*,*,United-States,*,*
+669_b,*,51-55,White,*,*,United-States,*,*
+531_b,*,51-55,White,*,*,United-States,*,*
+726_b,*,51-55,White,*,*,United-States,*,*
+514_b,*,55,White,*,Graduate,*,*,*
+1457_b,*,55,White,*,Graduate,*,*,*
+1164_b,*,55,White,*,Graduate,*,*,*
+884_b,*,55,White,*,Graduate,*,*,*
+1261_b,*,55,White,*,Graduate,*,*,*
+1440_b,*,55,White,*,Graduate,*,*,*
+224_b,*,55,White,*,*,*,Non-Government,*
+1245_b,*,55,White,*,*,*,Non-Government,*
+1049_b,*,55,White,*,*,*,Non-Government,*
+989_b,*,55,White,*,*,*,Non-Government,*
+436_b,*,55,White,*,*,*,Non-Government,*
+1125_b,*,55,White,*,*,*,Non-Government,*
+932_b,*,55,White,*,*,*,Non-Government,*
+210_b,*,55,White,*,*,*,Non-Government,*
+982_b,*,55,White,*,*,*,Non-Government,*
+1115_b,*,55,White,*,*,*,Non-Government,*
+923_b,*,55,White,*,*,*,Non-Government,*
+1061_b,*,51-60,White,*,*,United-States,*,*
+1342_b,*,51-60,White,*,*,United-States,*,*
+130_b,*,51-60,White,*,*,United-States,*,*
+1158_b,*,51-60,White,*,*,United-States,*,*
+671_b,*,51-60,White,*,*,United-States,*,*
+26_b,*,51-60,White,*,*,United-States,*,*
+1385_b,*,56,*,*,*,United-States,*,*
+813_b,*,56,*,*,*,United-States,*,*
+1178_b,*,56,*,*,*,United-States,*,*
+487_b,*,56,*,*,*,United-States,*,*
+893_b,*,56,*,*,*,United-States,*,*
+1176_b,*,56,*,*,*,United-States,*,*
+1356_b,*,56,*,*,*,United-States,*,*
+1085_b,*,56,*,*,*,United-States,*,*
+387_b,*,56,*,*,*,United-States,*,*
+268_b,*,56,*,*,*,United-States,*,*
+36_b,*,56,*,*,*,United-States,*,*
+845_b,*,56,*,*,*,United-States,*,*
+365_b,*,56-60,White,*,High School,United-States,*,*
+829_b,*,56-60,White,*,High School,United-States,*,*
+1005_b,*,56-60,White,*,High School,United-States,*,*
+1062_b,*,56-60,White,*,High School,United-States,*,*
+631_b,*,56-60,White,*,High School,United-States,*,*
+1332_b,*,56-60,White,*,High School,United-States,*,*
+169_b,*,57,White,*,*,*,*,Nontechnical
+910_b,*,57,White,*,*,*,*,Nontechnical
+298_b,*,57,White,*,*,*,*,Nontechnical
+883_b,*,57,White,*,*,*,*,Nontechnical
+492_b,*,57,White,*,*,*,*,Nontechnical
+644_b,*,57,White,*,*,*,*,Nontechnical
+1220_b,*,57,*,*,*,*,*,*
+1476_b,*,57,*,*,*,*,*,*
+476_b,*,57,*,*,*,*,*,*
+685_b,*,57,*,*,*,*,*,*
+559_b,*,57,*,*,*,*,*,*
+743_b,*,57,*,*,*,*,*,*
+201_b,*,57,*,*,*,*,*,*
+13_b,*,57,*,*,*,*,*,*
+1072_b,*,57,*,*,*,*,*,*
+171_b,*,57,*,*,*,*,*,*
+1301_b,*,57,*,*,*,*,*,*
+68_b,*,57,*,*,*,*,*,*
+834_b,*,56-60,*,*,*,North America,Non-Government,*
+1211_b,*,56-60,*,*,*,North America,Non-Government,*
+998_b,*,56-60,*,*,*,North America,Non-Government,*
+836_b,*,56-60,*,*,*,North America,Non-Government,*
+549_b,*,56-60,*,*,*,North America,Non-Government,*
+18_b,*,58,*,*,Graduate,*,*,Other
+676_b,*,58,*,*,Graduate,*,*,Other
+1051_b,*,58,*,*,Graduate,*,*,Other
+177_b,*,58,*,*,Graduate,*,*,Other
+767_b,*,58,*,*,Graduate,*,*,Other
+639_b,*,58,*,*,Graduate,*,*,Other
+85_b,*,56-60,*,*,*,United-States,*,*
+61_b,*,56-60,*,*,*,United-States,*,*
+1302_b,*,56-60,*,*,*,United-States,*,*
+389_b,*,56-60,*,*,*,United-States,*,*
+1042_b,*,56-60,*,*,*,United-States,*,*
+694_b,*,56-60,*,*,*,United-States,*,*
+93_b,*,59,*,*,*,*,*,*
+1250_b,*,59,*,*,*,*,*,*
+1006_b,*,59,*,*,*,*,*,*
+751_b,*,59,*,*,*,*,*,*
+96_b,*,59,*,*,*,*,*,*
+617_b,*,59,*,*,*,*,*,*
+15_b,*,56-60,*,*,*,United-States,*,*
+122_b,*,56-60,*,*,*,United-States,*,*
+361_b,*,56-60,*,*,*,United-States,*,*
+961_b,*,56-60,*,*,*,United-States,*,*
+215_b,*,56-60,*,*,*,United-States,*,*
+333_b,*,56-60,*,*,*,United-States,*,*
+33_b,*,60,*,*,*,North America,Private,Other
+701_b,*,60,*,*,*,North America,Private,Other
+1002_b,*,60,*,*,*,North America,Private,Other
+182_b,*,60,*,*,*,North America,Private,Other
+757_b,*,60,*,*,*,North America,Private,Other
+1083_b,*,60,*,*,*,North America,Private,Other
+1414_b,*,60,White,*,*,United-States,Non-Government,*
+529_b,*,60,White,*,*,United-States,Non-Government,*
+935_b,*,60,White,*,*,United-States,Non-Government,*
+312_b,*,60,White,*,*,United-States,Non-Government,*
+1484_b,*,60,White,*,*,United-States,Non-Government,*
+602_b,*,60,White,*,*,United-States,Non-Government,*
+413_b,*,61,*,*,*,*,*,Nontechnical
+1497_b,*,61,*,*,*,*,*,Nontechnical
+936_b,*,61,*,*,*,*,*,Nontechnical
+946_b,*,61,*,*,*,*,*,Nontechnical
+1159_b,*,61,*,*,*,*,*,Nontechnical
+1263_b,*,61,*,*,*,*,*,Nontechnical
+1004_b,*,61,*,*,*,United-States,Private,Other
+50_b,*,61,*,*,*,United-States,Private,Other
+930_b,*,61,*,*,*,United-States,Private,Other
+1254_b,*,61,*,*,*,United-States,Private,Other
+665_b,*,61,*,*,*,United-States,Private,Other
+1166_b,*,61,*,*,*,United-States,Non-Government,*
+192_b,*,61,*,*,*,United-States,Non-Government,*
+1488_b,*,61,*,*,*,United-States,Non-Government,*
+1434_b,*,61,*,*,*,United-States,Non-Government,*
+1251_b,*,61,*,*,*,United-States,Non-Government,*
+581_b,*,61,*,*,*,United-States,Non-Government,*
+440_b,*,62,White,*,*,North America,*,*
+864_b,*,62,White,*,*,North America,*,*
+837_b,*,62,White,*,*,North America,*,*
+120_b,*,62,White,*,*,North America,*,*
+1448_b,*,62,White,*,*,North America,*,*
+228_b,*,62,White,*,*,North America,*,*
+842_b,*,61-65,White,*,*,United-States,*,*
+1299_b,*,61-65,White,*,*,United-States,*,*
+1206_b,*,61-65,White,*,*,United-States,*,*
+572_b,*,61-65,White,*,*,United-States,*,*
+354_b,*,61-65,White,*,*,United-States,*,*
+1035_b,*,61-65,White,*,*,United-States,*,*
+765_b,*,63,*,*,*,United-States,*,*
+775_b,*,63,*,*,*,United-States,*,*
+425_b,*,63,*,*,*,United-States,*,*
+708_b,*,63,*,*,*,United-States,*,*
+1383_b,*,63,*,*,*,United-States,*,*
+891_b,*,63,*,*,*,United-States,*,*
+295_b,*,64,White,*,Higher education,North America,*,*
+1468_b,*,64,White,*,Higher education,North America,*,*
+828_b,*,64,White,*,Higher education,North America,*,*
+1260_b,*,64,White,*,Higher education,North America,*,*
+1361_b,*,64,White,*,Higher education,North America,*,*
+736_b,*,64,White,*,Higher education,North America,*,*
+83_b,*,64,*,*,*,United-States,*,*
+1443_b,*,64,*,*,*,United-States,*,*
+1156_b,*,64,*,*,*,United-States,*,*
+702_b,*,64,*,*,*,United-States,*,*
+768_b,*,64,*,*,*,United-States,*,*
+503_b,*,64,*,*,*,United-States,*,*
+967_b,*,61-65,White,*,*,United-States,*,*
+1019_b,*,61-65,White,*,*,United-States,*,*
+209_b,*,61-65,White,*,*,United-States,*,*
+838_b,*,61-65,White,*,*,United-States,*,*
+1167_b,*,61-65,White,*,*,United-States,*,*
+449_b,*,61-65,White,*,*,United-States,*,*
+92_b,*,61-70,White,*,*,United-States,Non-Government,*
+605_b,*,61-70,White,*,*,United-States,Non-Government,*
+724_b,*,61-70,White,*,*,United-States,Non-Government,*
+545_b,*,61-70,White,*,*,United-States,Non-Government,*
+160_b,*,61-70,White,*,*,United-States,Non-Government,*
+1365_b,*,66-70,White,*,*,North America,*,*
+344_b,*,66-70,White,*,*,North America,*,*
+640_b,*,66-70,White,*,*,North America,*,*
+173_b,*,66-70,White,*,*,North America,*,*
+197_b,*,66-70,White,*,*,North America,*,*
+500_b,*,66-70,White,*,*,North America,*,*
+981_b,*,66-70,White,*,*,United-States,Non-Government,*
+435_b,*,66-70,White,*,*,United-States,Non-Government,*
+502_b,*,66-70,White,*,*,United-States,Non-Government,*
+443_b,*,66-70,White,*,*,United-States,Non-Government,*
+927_b,*,66-70,White,*,*,United-States,Non-Government,*
+439_b,*,66-70,White,*,*,United-States,Non-Government,*
+53_b,*,66-70,*,*,*,United-States,*,*
+1144_b,*,66-70,*,*,*,United-States,*,*
+45_b,*,66-70,*,*,*,United-States,*,*
+1010_b,*,66-70,*,*,*,United-States,*,*
+909_b,*,66-70,*,*,*,United-States,*,*
+1306_b,*,66-70,*,*,*,United-States,*,*
+1349_b,*,61-80,*,*,*,United-States,*,*
+1489_b,*,61-80,*,*,*,United-States,*,*
+1191_b,*,61-80,*,*,*,United-States,*,*
+211_b,*,61-80,*,*,*,United-States,*,*
+390_b,*,61-80,*,*,*,United-States,*,*
+325_b,*,61-80,*,*,*,United-States,*,*
+546_b,*,71-75,*,*,*,United-States,*,*
+986_b,*,71-75,*,*,*,United-States,*,*
+713_b,*,71-75,*,*,*,United-States,*,*
+271_b,*,71-75,*,*,*,United-States,*,*
+1098_b,*,71-75,*,*,*,United-States,*,*
+363_b,*,71-75,*,*,*,United-States,*,*
+497_b,*,71-80,White,*,*,United-States,*,*
+1401_b,*,71-80,White,*,*,United-States,*,*
+1077_b,*,71-80,White,*,*,United-States,*,*
+540_b,*,71-80,White,*,*,United-States,*,*
+1424_b,*,71-80,White,*,*,United-States,*,*
+682_b,*,71-80,White,*,*,United-States,*,*
+1161_b,*,*,*,*,*,North America,*,*
+481_b,*,*,*,*,*,North America,*,*
+1355_b,*,*,*,*,*,North America,*,*
+1227_b,*,*,*,*,*,North America,*,*
+822_b,*,*,*,*,*,North America,*,*
+1370_b,*,*,*,*,*,North America,*,*
